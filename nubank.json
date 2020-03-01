@@ -1,0 +1,68 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 10,
+                "Y": 31,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 30,
+                "Y": 31,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 70,
+                "Y": 31,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 90,
+                "Y": 31,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Status": {
+        "Battery": {
+            "BatteryConfig": {
+                "BoxWidth": 0,
+                "Alignment": 0,
+                "Order": 0
+            },
+            "Icon": {
+                "X": 85,
+                "Y": 3,
+                "ImageIndex": 11,
+                "ImagesCount": 25
+            }
+        }
+    },
+    "Activity": {
+        "Steps": {
+            "Number": {
+                "TopLeftX": 60,
+                "TopLeftY": 220,
+                "BottomRightX": 115,
+                "BottomRightY": 234,
+                "Alignment": "TopRight",
+                "Spacing": 1,
+                "ImageIndex": 36,
+                "ImagesCount": 10
+            }
+        }
+    }
+}
